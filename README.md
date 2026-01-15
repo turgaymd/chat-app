@@ -1,5 +1,5 @@
 # chat-app
-Real-time chat app
+Real-time chat app built with modern JavaScript technologies. This project demonstrates live messages, audio recording, and responsive design.
 
 ## Tech Stack
 Next.js
